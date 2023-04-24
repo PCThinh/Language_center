@@ -1,0 +1,48 @@
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\bin\Debug\English-center.exe.config
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\bin\Debug\English-center.exe
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\bin\Debug\English-center.pdb
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English-center.csproj.AssemblyReference.cache
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English-center.csproj.SuggestedBindingRedirects.cache
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Properties.Resources.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.SignIn.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English-center.csproj.GenerateResource.cache
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English-center.csproj.CoreCompileInputs.cache
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English-center.exe
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English-center.pdb
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.SignUp.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Main.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English-center.csproj.CopyComplete
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Student.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Course.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Staff.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Account.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Class.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Attendance.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Payment.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.Forgetpass.resources
+C:\Users\TU\Desktop\Báo cáo CNPM\English-center\English-center\obj\Debug\English_center.About.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\bin\Debug\English-center.exe.config
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\bin\Debug\English-center.exe
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\bin\Debug\English-center.pdb
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English-center.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English-center.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.About.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Account.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Attendance.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Course.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Forgetpass.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Main.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Class.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Payment.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.SignUp.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.SignIn.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Staff.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English_center.Student.resources
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English-center.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English-center.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English-center.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English-center.exe
+C:\Users\ADMIN\Downloads\52100113_52100138\English-center\English-center\obj\Debug\English-center.pdb
